@@ -29,3 +29,10 @@ repository is intended to contain instructions and code for a _canonical_ versio
 potentially be built and run by other labs (or the original creators).  However, as of this writing, such a
 canonical version does not exist.  Therefore, this repository is essentially empty.  As this changes, the
 repository will be updated and this note will be updated to reflect the current state of affairs.
+
+## A Note on Licenses
+
+The bulk of the content of this repository is licensed under the BSD 3-clause license.  However, not every
+file is covered by this license.  Please check each directory and, if appropriate, the top and/or bottom of
+the file for additional license information.  In particular, the BSD license is not well-suited to text and
+other documentation, nor is it particularly appropriate for data, both of which may be found here at some point.
